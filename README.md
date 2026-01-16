@@ -8,7 +8,9 @@
 4. 作成したプロジェクトをRenderなどにデプロイ！
 
 5.
-6.  <a href="https://render.com/deploy?repo=https://github.com/karaageYUKI/wkt">
+6.
+7.
+<a href="https://render.com/deploy?repo=https://github.com/karaageYUKI/wkt">
  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
 </a>
 
