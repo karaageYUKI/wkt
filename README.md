@@ -7,6 +7,11 @@
 3. 自分の GitHub アカウントに新しいリポジトリとして作成(公開リポジトリとして作成してください)
 4. 作成したプロジェクトをRenderなどにデプロイ！
 
+5.
+6.  <a href="https://render.com/deploy?repo=https://github.com/karaageYUKI/wakametube">
+ <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
+</a>
+
 ---
 
 ## 🛠 Render でのデプロイ手順
